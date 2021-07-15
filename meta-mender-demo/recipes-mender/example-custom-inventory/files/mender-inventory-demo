@@ -1,0 +1,6 @@
+#!/bin/sh
+
+KEY_NAME=Location
+KEY_VALUE=Europe
+
+echo "$KEY_NAME=$KEY_VALUE"
